@@ -1,0 +1,14 @@
+---
+title: "Eovito_Review"
+output: html_document
+date: "2025-03-24"
+---
+
+## R Markdown
+
+I was able to successfully run your code. The data inspection portion of the assignment was done well and easy to follow. 
+I could see exactly what your inspecting and what you learned from this. 
+The data processing was also done well and I was able to follow easily. 
+However, I think it would be beneficial to annotate your lines of code in more detail so it is easier for someone with little to no background in R syntax to understand what you are doing.
+I think the graph that you made to show the SNP's per chromosomes was done well and very visually appealing. 
+The only thing I would change is to just annotate the data processing portion in a bit more detail, but other than that it was done very well!
