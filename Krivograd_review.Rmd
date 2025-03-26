@@ -1,0 +1,7 @@
+#General Comments 
+
+#I was able to run the code with no errors present.
+
+#I  like the way you formatted the graphs, they look clean and are easy to read.
+
+#My only suggestion is to possibly improve organization and create separate folders for increasing order and decreasing order chromosomes if you want. Having all the maize/teosinte chromosome files together is a good way to keep maize and teosinte separated, by maybe they could also be organized by increasing or decreasing order to make it clear. That is completely optional, it would just be easy to observe.
